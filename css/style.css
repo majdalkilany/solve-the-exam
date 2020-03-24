@@ -1,0 +1,68 @@
+#tbl{
+    border-style: solid;
+}
+.th1{
+    border-style: solid;
+
+}
+.td1{
+    border-style: solid;
+
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #eee;
+    width: 100%;
+}
+header{
+    font-size: xx-large;
+    background-color: #6d8adbc7;
+    text-align: center;
+    padding: 50px;
+}
+input{
+    padding: 10px;
+    padding-right: ;
+    margin-top: 15px;
+
+}
+
+
+#div1{
+    padding: 30px;
+    width: 40%;
+    /* margin: 0; */
+    background-color:  #dae4ff;
+    height: 400px;
+/* margin-right: 0px; */
+
+}
+#submitBut{
+ float: right;
+ text-align: center;
+background-color: #6d8adbc7;
+}
+#tble{
+    width: 30%;
+    float: right;
+    margin-left: 0px;
+}
+table{
+    border: solid;
+    font-size: x-large;
+    padding: 500px;
+}
+th{
+    border: solid;
+    padding: 20px;
+    font-weight: 600;
+}
+td{
+    border: solid;
+
+}
+#form{
+    /* padding: 0px;
+    margin: 0px; */
+    /* width: 30px; */
+}
